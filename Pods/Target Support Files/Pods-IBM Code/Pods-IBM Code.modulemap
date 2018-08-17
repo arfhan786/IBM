@@ -1,0 +1,6 @@
+framework module Pods_IBM_Code {
+  umbrella header "Pods-IBM Code-umbrella.h"
+
+  export *
+  module * { export * }
+}
